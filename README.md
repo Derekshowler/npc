@@ -1,0 +1,2 @@
+# npc
+non playable character
